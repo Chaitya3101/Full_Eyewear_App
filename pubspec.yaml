@@ -1,0 +1,44 @@
+name: eyewear_app
+description: A Flutter app for eyewear shopping.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pv_logo.png
+    - assets/bannerHero.jpg
+    - assets/phonic.jpg
+    - assets/men-1.png
+    - assets/women-1.png
+    - assets/kid-1.png
+    - assets/spec-1.jpg
+    - assets/zeropower.png
+    - assets/reading.png
+    - assets/progressive.png
+    - assets/power sun.png
+    - assets/clear_lens.png
+    - assets/solution.png
+    - assets/color_lens.png
+    - assets/cases.png
+    - assets/2 in 1.png
+    - assets/no fall.png
+    - assets/twist.png
+    - assets/battech.png
+    - assets/dualtone.png
+    - assets/bendable.png
+
